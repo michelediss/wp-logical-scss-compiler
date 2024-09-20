@@ -1,8 +1,11 @@
 <?php
 /*
-Plugin Name: SCSS WordPress Compiler
+Plugin Name: Logical SCSS Compiler
 Description: Compile and enqueue SCSS in WordPress in one click
+Plugin URI: https://github.com/michelediss/wp-logical-scss-compiler
+Version: 1.0
 Author: Michele Paolino
+Author URI: https://www.michelepaolino.me
 */
 
 // Include the SCSSPHP library
